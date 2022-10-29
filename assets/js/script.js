@@ -36,7 +36,6 @@ function runGame(gameType) {
         throw `Unknown game type: ${gameType}. Aborting!`;
     }
     }
-}
 
 function checkAnswer() {
 
